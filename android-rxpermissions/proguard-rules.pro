@@ -188,4 +188,3 @@
  -keepclassmembers class * {
      void *(**On*Event);
  }
-  -keep class com.ved.tcp.Request.** { *; }
