@@ -1,4 +1,4 @@
-package com.ved.tcp
+package com.tbruyelle.rxpermissions3
 
 import org.junit.Test
 
